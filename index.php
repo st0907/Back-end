@@ -7,7 +7,7 @@
 </head>
 <body>
   <a href="back-end.php">
-    <button>Back-end</button>
+    <button type="button">Back-end</button>
   </a>
 </body>
 </html>
